@@ -1,0 +1,9 @@
+system:
+  addr: ":9086"
+
+db:
+  username: "root"
+  password: "lcc123456"
+  host: "172.22.0.229"
+  port: "3306"
+  dataname: "qingliu"
